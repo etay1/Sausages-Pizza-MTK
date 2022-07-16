@@ -1,2 +1,2 @@
 # Sausages-Pizza-MTK
-Website for a local Pizzeria in Montauk NY (Still in production)
+Freelance work for a pizzeria in Montauk NY
